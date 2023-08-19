@@ -1,4 +1,6 @@
 # DefinedIM
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPinghigh%2FDefinedIM.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPinghigh%2FDefinedIM?ref=badge_shield)
+
 
 不受限制的即时通讯
 
@@ -36,3 +38,6 @@ gradlew shadowJar
 
 ## License
 代码以`MPL 2.0`协议发布
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPinghigh%2FDefinedIM.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPinghigh%2FDefinedIM?ref=badge_large)
